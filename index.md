@@ -1,6 +1,6 @@
 # Privacy Policy for Med Tracker
 
-**Last updated: 30th of September 2026
+Last updated: 30th of September 2026
 
 ## Introduction
 
