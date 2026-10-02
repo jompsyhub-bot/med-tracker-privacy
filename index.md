@@ -36,6 +36,15 @@ The App does not use analytics services, advertising networks, or crash reportin
 
 All data is stored on your device for as long as you choose to keep the App installed. If you uninstall the App, **all locally stored data is permanently deleted** and cannot be recovered by us.
 
+## Drug Interaction Checker
+
+The App includes a drug interaction checker feature. When you use this feature, the names of the medications you have entered are sent to the National Institutes of Health (NIH) RxNav API to retrieve publicly available interaction data.
+
+- **No personal identifiers are sent** — only medication names.
+- **No account information, device ID, or profile data is transmitted.**
+- The results are informational only and are not medical advice.
+- The App does not store the interaction results on any server.
+
 ## Notification Permissions
 
 The App requests permission to send notifications. This is used exclusively to deliver medication reminders you have scheduled within the App. You can revoke this permission at any time through your device settings.
